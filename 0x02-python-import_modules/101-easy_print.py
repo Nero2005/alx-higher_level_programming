@@ -3,4 +3,4 @@ import logging
  
 logging.basicConfig(format='%(message)s')
 log = logging.getLogger(__name__)
-log.warning('#pythoniscool')
+log.warning('#pythoniscool\n')
