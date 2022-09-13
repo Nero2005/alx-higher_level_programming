@@ -42,3 +42,6 @@ class Square:
 
             for i in range(self.size):
                 print(' ' * self.position[0] + '#' * self.size)
+
+s = Square(4, (3, 0))
+s.my_print()
