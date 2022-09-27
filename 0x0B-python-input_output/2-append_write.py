@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Module 3."""
+"""Module 2-append_write."""
 
 
 def append_write(filename="", text=""):
