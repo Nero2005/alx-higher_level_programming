@@ -1,3 +1,4 @@
+#!/usr/bin/node
 const dict = require('./101-data').dict;
 const sorted = {};
 for (const key of Object.keys(dict)) {
